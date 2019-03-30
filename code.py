@@ -1,7 +1,16 @@
+
 print ('Treino')
 
 a = range(1,21)
 b = range (21,121)
 
 print(a)
+
+
+
+a = range(1,21)
+b = range (21,121)
+for i in a:
+    print(str(i) + 'BOA NOITE AMIGOS')
+
 
