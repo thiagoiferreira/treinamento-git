@@ -1,4 +1,4 @@
-print('bom dia meus camaradas');
+print('bom dia rapazi');
 
 
 a = range(1,21)
